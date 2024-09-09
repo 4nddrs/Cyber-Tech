@@ -1,6 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Desierto01","order":1,"parentId":0,"scrollX":2840.727272727273,"scrollY":1640.7272727272727},
-{"id":2,"expanded":false,"name":"Cueva de piedra","order":2,"parentId":1,"scrollX":1977,"scrollY":1128},
-{"id":3,"expanded":true,"name":"Desierto02","order":3,"parentId":0,"scrollX":816,"scrollY":1616}
+{"id":1,"expanded":true,"name":"Desierto01","order":1,"parentId":0,"scrollX":2070,"scrollY":1791.6},
+{"id":2,"expanded":false,"name":"Cueva de piedra","order":2,"parentId":1,"scrollX":994.8,"scrollY":912},
+{"id":3,"expanded":true,"name":"Desierto02","order":3,"parentId":0,"scrollX":3931.2,"scrollY":2150.4},
+{"id":4,"expanded":false,"name":"Cueva de alcantarillas","order":4,"parentId":3,"scrollX":816,"scrollY":1280}
 ]
