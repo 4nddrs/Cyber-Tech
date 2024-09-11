@@ -1,7 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Desierto01","order":1,"parentId":0,"scrollX":2070,"scrollY":1791.6},
-{"id":2,"expanded":false,"name":"Cueva de piedra","order":2,"parentId":1,"scrollX":994.8,"scrollY":912},
-{"id":3,"expanded":true,"name":"Desierto02","order":3,"parentId":0,"scrollX":3931.2,"scrollY":2150.4},
-{"id":4,"expanded":false,"name":"Cueva de alcantarillas","order":4,"parentId":3,"scrollX":816,"scrollY":1280}
+{"id":1,"expanded":true,"name":"Desierto01_Up2","order":3,"parentId":0,"scrollX":3276,"scrollY":1792},
+{"id":2,"expanded":false,"name":"Cueva de piedra","order":4,"parentId":1,"scrollX":3276,"scrollY":1792},
+{"id":3,"expanded":true,"name":"Desierto02_Up3","order":5,"parentId":0,"scrollX":3276,"scrollY":1792},
+{"id":4,"expanded":false,"name":"Cueva de alcantarillas","order":6,"parentId":3,"scrollX":3276,"scrollY":1792},
+{"id":5,"expanded":true,"name":"Desierto03_Up1","order":1,"parentId":0,"scrollX":3276,"scrollY":1792},
+{"id":6,"expanded":false,"name":"Ciudad minera","order":2,"parentId":5,"scrollX":3276,"scrollY":1792}
 ]
