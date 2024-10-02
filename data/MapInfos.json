@@ -1,9 +1,17 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Desierto01_Up2","order":3,"parentId":0,"scrollX":3276,"scrollY":1792},
-{"id":2,"expanded":false,"name":"Cueva de piedra","order":4,"parentId":1,"scrollX":3276,"scrollY":1792},
-{"id":3,"expanded":true,"name":"Desierto02_Up3","order":5,"parentId":0,"scrollX":3276,"scrollY":1792},
-{"id":4,"expanded":false,"name":"Cueva de alcantarillas","order":6,"parentId":3,"scrollX":3276,"scrollY":1792},
-{"id":5,"expanded":true,"name":"Desierto03_Up1","order":1,"parentId":0,"scrollX":3276,"scrollY":1792},
-{"id":6,"expanded":false,"name":"Ciudad minera","order":2,"parentId":5,"scrollX":3276,"scrollY":1792}
+{"id":1,"expanded":false,"name":"Desierto01_Up2","order":13,"parentId":0,"scrollX":2433,"scrollY":2016},
+{"id":2,"expanded":false,"name":"Cueva de piedra","order":14,"parentId":1,"scrollX":3276,"scrollY":1792},
+{"id":3,"expanded":false,"name":"Desierto02_Up3","order":3,"parentId":0,"scrollX":2433,"scrollY":1464},
+{"id":4,"expanded":false,"name":"Cueva de alcantarillas","order":4,"parentId":3,"scrollX":2773.7142857142853,"scrollY":1501.7142857142856},
+{"id":5,"expanded":false,"name":"Desierto03_Up1","order":1,"parentId":0,"scrollX":2433,"scrollY":1344},
+{"id":6,"expanded":false,"name":"Ciudad minera","order":2,"parentId":5,"scrollX":3276,"scrollY":1792},
+{"id":7,"expanded":false,"name":"Desierto04_Down1","order":5,"parentId":0,"scrollX":2433,"scrollY":1344},
+{"id":8,"expanded":false,"name":"Cueva de lava","order":6,"parentId":7,"scrollX":2773.7142857142853,"scrollY":1501.7142857142856},
+{"id":9,"expanded":false,"name":"Desierto04_Down2","order":7,"parentId":0,"scrollX":2433,"scrollY":1596},
+{"id":10,"expanded":false,"name":"Castillo demoníaco (Piso 1)","order":8,"parentId":9,"scrollX":2773.7142857142853,"scrollY":1501.7142857142856},
+{"id":11,"expanded":false,"name":"Castillo demoníaco (Piso 2)","order":9,"parentId":9,"scrollX":1747.6363636363637,"scrollY":955.6363636363636},
+{"id":12,"expanded":false,"name":"Castillo demoníaco (Piso 3)","order":10,"parentId":9,"scrollX":2773.7142857142853,"scrollY":1501.7142857142856},
+{"id":13,"expanded":false,"name":"Desierto04_Down3","order":11,"parentId":0,"scrollX":2780.5714285714284,"scrollY":1536},
+{"id":14,"expanded":false,"name":"Oasis","order":12,"parentId":13,"scrollX":2773.7142857142853,"scrollY":1501.7142857142856}
 ]
