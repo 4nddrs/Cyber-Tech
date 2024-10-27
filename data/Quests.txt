@@ -1,0 +1,49 @@
+<quest i:Quest Name|d|c>
+objectiveName,objectiveName,objectiveName,objectiveName,objectiveName
+resolution text, resolution text, resolution text
+Description text lines here...
+Description text lines here...
+Description text lines here...
+Description text lines here...
+</quest>
+
+<quest 1:Perdido en el desierto|1|0>
+Busca indicaciones
+
+Cerca de donde apareciste debe
+haber alguien que pueda ayudarte
+a orientarte
+</quest>
+
+
+<quest 2:El Jefe de la aldea|1|0>
+Habla con el jefe de la aldea
+
+Habla con el anciano jefe de la aldea
+para que pueda ayudarte de alguna forma
+a salir del desierto
+</quest>
+
+<quest 3:El Mapa del Desierto|2|0>
+Busca el Mapa del Desierto
+
+Encuentra el mapa del desierto
+en las cuevas cerca de donde 
+apareciste 
+</quest>
+
+
+<quest 4:Las flores Rojas|1|1>
+Ayuda a la famaceutica a preparar
+medicina
+
+Recoje 3 de las Flores Rojas 
+que estan por el pueblo
+</quest>
+
+<quest 5:Las mercancias perdidas|1|1>
+Encuentra las mercancias del mercader
+
+Busca por los alrededores de la aldea
+un carro que contenga las mercancias
+</quest>
